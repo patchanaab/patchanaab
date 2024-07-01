@@ -1,8 +1,8 @@
-## ✨✨ Patchanapong Meetam  💻💻
+#  Patchanapong Meetam  💻🚬
 
-#
 
-**Software Developer | Generation thailand**
+
+**`Software Developer | Generation thailand`**
 
 I am a career changer who discovered a passion for coding and continuous learning, which led me to embark on a new career path in software development
 and give The World back what it gave
@@ -21,6 +21,13 @@ and give The World back what it gave
 <img align="left" alt="html" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" />
 <img align="left" alt="html" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
 <img align="left" alt="html" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
+
+#
+
+### 📊 Stats
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=patchanaab&show_icons=true&theme=gruvbox)
+
 
 
 
