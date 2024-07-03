@@ -34,6 +34,6 @@ and give The World back what it gave
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=patchanaab&show_icons=true&theme=gruvbox)
 
-
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=patchanaab&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 
 
