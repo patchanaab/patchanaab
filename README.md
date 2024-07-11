@@ -5,7 +5,7 @@
 **`Software Developer | Generation thailand`**
 
 I am a career changer who discovered a passion for coding and continuous learning, which led me to embark on a new career path in software development
-and give The World back what it gave
+
 
 #
 
