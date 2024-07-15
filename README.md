@@ -32,8 +32,8 @@ I am a career changer who discovered a passion for coding and continuous learnin
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=patchanaab&show_icons=true&theme=gruvbox)
+<a align="center" ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=patchanaab&show_icons=true&theme=gruvbox)/>
 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=patchanaab&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patchanaab&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 
 
