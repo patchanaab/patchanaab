@@ -1,4 +1,3 @@
-<div align= "center">
 #  Patchanapong Meetam  💻🚬
 
 
@@ -25,7 +24,7 @@ I am a career changer who discovered a passion for coding and continuous learnin
 <img align="left" alt="html" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
 <img align="left" alt="html" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 
-</div>
+
 
 
 #
